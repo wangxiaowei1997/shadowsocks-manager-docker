@@ -34,9 +34,9 @@ plugins:
         flow: 200000000000
   email:
     use: true
-    username: 'username'
-    password: 'password'
-    host: 'smtp_server'
+    username: '1179846847@qq.com'
+    password: 'yee&1028&0405'
+    host: 'smtp.qq.com'
   webgui:
     use: true
     host: '0.0.0.0'
