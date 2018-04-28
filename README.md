@@ -51,7 +51,7 @@
 version: '2'                                                                                                                                                                                                                                                                                    
 services:                                                                                                                                       
   shadowsocks-manager:                                                                                                                          
-    image: chxj1992/shadowsocks-manager-docker:0.1.0                                                                                                                                
+    image: wangwei1997/shadowsocks-manager-docker:0.1.0                                                                                                                                
     container_name: shadowsocks-manager                                                                                                         
     ports:                                                                                                                                      
       - "8388:8388"                                                                                                                             
