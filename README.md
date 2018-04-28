@@ -21,7 +21,7 @@
 
 启动Docker镜像
 
-`docker run --rm -it --name shadowsocks-manager -p 4002:4002 chxj1992/shadowsocks-manager-docker:0.1.0`
+`docker run --rm -it --name shadowsocks-manager -p 4002:4002 wangwei1997/ssmgr:0.1.0`
 
 在浏览器中访问 `http://localhost:4002` 
 
